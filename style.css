@@ -1,0 +1,16 @@
+.green{
+    color: green; 
+    font-weight: bold; 
+}
+.red{
+    color: red; 
+    font-weight: bold; 
+}
+.custom-width {
+    width: 250px !important; /* Set the width you need */
+  }
+
+
+
+  
+  
